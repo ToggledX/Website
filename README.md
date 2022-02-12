@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Iconic Client Website</h1>
+<h1 align="center">Iconic Client Website</h1>
 
 Official website for Iconic Client.
 
