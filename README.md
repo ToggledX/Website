@@ -1,6 +1,6 @@
-<h1 align="center">Iconic Client Website</h1>
+<h1 align="center">Iconic LLC Website</h1>
 
-Official website for Iconic Client.
+Official website for Iconic LLC.
 
 [Visit](https://iconicclient.tk)
 
