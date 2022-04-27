@@ -8,6 +8,5 @@ Official website for Iconic LLC.
 
 - [Slddev](https://github.com/Slddev)
 - [oyMarcel (Small contribution)](https://github.com/oymarcel)
-- [Creatinq (Small contribution)](https://github.com/creatinq)
 
 ### Apache License 2.0
